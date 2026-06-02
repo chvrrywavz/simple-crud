@@ -1,0 +1,25 @@
+[
+    {
+        "_id": "98f8d191-de16-44f1-ab7e-813cc6dc0b8b",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:3000/profile",
+        "url": "http://localhost:3000/places",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2026-06-02T03:34:53.917Z",
+        "modified": "2026-06-02T03:36:23.429Z",
+        "headers": [],
+        "body": {
+            "type": "json",
+            "raw": [
+                "{\r",
+                "  \"address\": \"Calle Luna 123\",\r",
+                "  \"capacity\": 50,\r",
+                "  \"owner\": 1\r",
+                "}"
+            ],
+            "form": []
+        }
+    }
+]
